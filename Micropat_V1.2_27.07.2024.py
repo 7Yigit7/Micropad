@@ -1,7 +1,7 @@
 #Yazan Yiğit Çıtak
 
 """
-1.1 Güncellemesi:
+1.2 Güncellemesi:
 
 Bazı renk değişikliği
 ve isim değişikliği
