@@ -77,7 +77,7 @@ buton4 = buton_class(
 label_1 = Label_class(
     x=1,
     y=1,
-    text="Micropat",
+    text="Micropad",
     font_color=label_renk,
     size=20
     )
@@ -213,7 +213,7 @@ def main():
 
     root = tk.Tk()
     root.minsize(1200,700)
-    root.title("Micropat")
+    root.title("Micropad")
     root.config(bg=ana_renk)
 
     bosluk = tk.Label(root,text=f"\n\n\n\n",bg=ana_renk).pack()
