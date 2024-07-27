@@ -1,4 +1,4 @@
-# Micropat
+# Micropad
 
 Bu bir text editörüdür
 
