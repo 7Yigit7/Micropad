@@ -1,4 +1,4 @@
-# DefterYar
+# Micropat
 
 Bu bir text editörüdür
 
